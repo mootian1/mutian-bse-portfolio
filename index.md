@@ -1,5 +1,5 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+Mutian Wang's AMAZING ball tracking robot
+Have you ever chased something to chase your big red ball? Wanted a dog but didn't want to clean up its poop? Well, you are in great luck! Introducing the AMAZING ball tracking robot, also known as the ABTR 2000! With a brand new ABTR 2000, your ball can be tracked into the sunset! This robot includes revolutionary features like two ultrasonic sensors and a high-definition camera to follow the ball wherever it rolls. Two massive motors power this robot allowing it great maneuverability and speed. Interested? Contact Mutian Wang today!
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -9,7 +9,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Mutian W | Leigh High School | Electrical Engineering | Incoming Junior
+| Mutian W | Leigh High School | considering between electrical and mechanical engineering | Incoming Junior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
