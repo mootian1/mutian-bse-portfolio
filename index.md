@@ -42,12 +42,11 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
-# First Milestone: Set Up Raspberry Pi and Sensors
+# First Milestone: Set Up Raspberry Pi and Sensors:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
 - Connected the Raspberry Pi to the home pc through SSH
 - Used RealVNC viewer to Raspberry Pi screen through home display
 - Created a circuit for both ultrasonic sensors using a breadboard 
@@ -79,7 +78,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | RasTech Raspberry Pi 4 4GB Starter Kit | Runs the programs that guides the ball tracking robot | $147.79 | <a href="https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/"> Raspberry Pi Kit </a> |
-| Robot Chasis | Chassis for robot- has wheels for mobility and points to add sensors and more | $13.99 | <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/"> Chassis </a> |
+| Robot Chassis | Chassis for robot- has wheels for mobility and points to add sensors and more | $13.99 | <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/"> Chassis </a> |
+| Ultrasonic Sensors | Detect the diostance the robot is from obstacles | $6.79 | <a href="https://www.amazon.com/MTDELE-HC-SR04-Ultrasonic-Mounting-Bracket/dp/B0G6ZDBTWR/"> Ultrasonic Sensors </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
