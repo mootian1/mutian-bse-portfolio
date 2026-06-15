@@ -78,7 +78,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| RasTech Raspberry Pi 4 4GB Starter Kit | Runs the programs that guides the ball tracking robot | $147.79 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ?crid=28W86PRMUEPO1&dib=eyJ2IjoiMSJ9.K9uYbZ89dSGaSC_vJVVn_kqT2zW0gRmGOkwE8lP9Z9_WNx49GJkdHYAzErmjO1rWTwJUMyEx0inA8HiEkNtvLLNm6gXKM9LzSEZsQBsIHBkTmQOpHNY5DQivn-6MY2fgC0nLuy3RErpLnOn-g6SFYsfIEWgy_-fFwnL1PZbYWYCgZoHEz8bbo6M882jSsKRpm9g2EYqBCtBl3_j9Twos9GeJ0k2hXctRwKbROP-Z3gzC1JBrq-Q_sYChzyjeuR5irq0oZKCeSk24rWKd16uciF9Ox_DmrlnK7A6aIPg7UD0.hEAsE_GxsaoAuJQvSn_IV9AE8f4_nl_f1RaXYmoVek8&dib_tag=se&keywords=raspberry%2Bpi%2B4%2Bstarter%2Bkit%2Brastech&qid=1781485489&s=electronics&sprefix=%2Celectronics%2C160&sr=1-1&th=1)"> Raspberry Pi Kit </a> |
+| RasTech Raspberry Pi 4 4GB Starter Kit | Runs the programs that guides the ball tracking robot | $147.79 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ?> Raspberry Pi Kit </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
