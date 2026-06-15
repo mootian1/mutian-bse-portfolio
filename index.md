@@ -1,4 +1,4 @@
-#Mutian's AMAZING ball tracking robot
+**Mutian's AMAZING ball tracking robot**
 
 |Have you ever chased something to chase your big red ball? Wanted a dog but didn't want to clean up its poop? Well, you are in great luck! Introducing the AMAZING ball tracking robot, also known as the ABTR 2000! With a brand new ABTR 2000, your ball can be tracked into the sunset! This robot includes revolutionary features like two ultrasonic sensors and a high-definition camera to follow the ball wherever it rolls. Two massive motors power this robot allowing it great maneuverability and speed. Interested? Contact Mutian today!|
 
@@ -44,7 +44,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone: Set Up Raspberry Pi and Sensors
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -79,7 +78,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| RasTech Raspberry Pi 4 4GB Starter Kit | Runs the programs that guides the ball tracking robot | $147.79 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ?crid=28W86PRMUEPO1&dib=eyJ2IjoiMSJ9.K9uYbZ89dSGaSC_vJVVn_kqT2zW0gRmGOkwE8lP9Z9_WNx49GJkdHYAzErmjO1rWTwJUMyEx0inA8HiEkNtvLLNm6gXKM9LzSEZsQBsIHBkTmQOpHNY5DQivn-6MY2fgC0nLuy3RErpLnOn-g6SFYsfIEWgy_-fFwnL1PZbYWYCgZoHEz8bbo6M882jSsKRpm9g2EYqBCtBl3_j9Twos9GeJ0k2hXctRwKbROP-Z3gzC1JBrq-Q_sYChzyjeuR5irq0oZKCeSk24rWKd16uciF9Ox_DmrlnK7A6aIPg7UD0.hEAsE_GxsaoAuJQvSn_IV9AE8f4_nl_f1RaXYmoVek8&dib_tag=se&keywords=raspberry%2Bpi%2B4%2Bstarter%2Bkit%2Brastech&qid=1781485489&s=electronics&sprefix=%2Celectronics%2C160&sr=1-1&th=1)"> Raspberry Pi Kit </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
