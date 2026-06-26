@@ -16,32 +16,26 @@ You should comment out all portions of your portfolio that you have not complete
 
 ![Headstone Image](logo.svg)
   
-# Final Milestone
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+# Final Milestone- modifications
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwcLb2Ay0eE?si=HvonVb2Dy3TZOiym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- designed and 3d printed my own second layer to organize and stabilize the robot
+- mounted the breadboard and Raspberry Pi to the second layer so they don't fall off anymore
+- wired on my own LCD screen to display the distance from the ball 
+- faced troubles with the code necessary to use the LCD screen
 
 
 
-# Second Milestone
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+# Second Milestone-Complete the project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGrmzXq1tao?si=ut21n--gggfZCzGq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
+- put the robot together
+- connected DC motors to the robot through an H-bridge
+- used the final code on the robot
+- augmented the final code by changing it from using three ultrasonic sensors to two
+ 
 # First Milestone: Set Up Raspberry Pi and Sensors:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FkshiS4EVYc?si=SvQSFMKy0P1sfe7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
