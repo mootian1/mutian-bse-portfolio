@@ -1,18 +1,13 @@
 **Mutian's AMAZING ball tracking robot**
 
-|Have you ever chased something to chase your big red ball? Wanted a dog but didn't want to clean up its poop? Well, you are in great luck! Introducing the AMAZING ball tracking robot, also known as the ABTR 2000! With a brand new ABTR 2000, your ball can be tracked into the sunset! This robot includes revolutionary features like two ultrasonic sensors and a high-definition camera to follow the ball wherever it rolls. Two massive motors power this robot allowing it great maneuverability and speed. Interested? Contact Mutian today!|
+|Have you ever chased something to chase your big red ball? Wanted a dog but didn't want to clean up its poop? Well, you are in great luck! Introducing the AMAZING ball tracking robot, also known as the ABTR 2000! With a brand new ABTR 2000, your ball can be tracked into the sunset! This robot includes revolutionary features like two ultrasonic sensors and a high-definition camera to follow the ball wherever it rolls. Two massive motors power this robot, allowing it great maneuverability and speed. Interested? Contact Mutian today!|
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Mutian W | Leigh High School | considering between electrical and mechanical engineering | Incoming Junior|
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
   
@@ -24,7 +19,6 @@ You should comment out all portions of your portfolio that you have not complete
 - mounted the breadboard and Raspberry Pi to the second layer so they don't fall off anymore
 - wired on my own LCD screen to display the distance from the ball 
 - faced troubles with the code necessary to use the LCD screen
-
 
 
 # Second Milestone-Complete the project
@@ -46,10 +40,9 @@ You should comment out all portions of your portfolio that you have not complete
 - Created test code for the camera that displays what the camera sees
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+to be uploaded
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```python
 # import the necessary packages
