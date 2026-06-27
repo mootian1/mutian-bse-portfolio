@@ -283,8 +283,8 @@ while True:
 camera.stop()
 cv2.destroyAllWindows()
 GPIO.cleanup()
-```
-
+``` 
+i do try its just i didnt have many opportunities. i made conversations when possible and all the stuff, but the only class where i could sit with girls had us rotate seats every month and half the time im sitting with dudes. all other classes i have no contact with huzz. 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
@@ -294,7 +294,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 | RasTech Raspberry Pi 4 4GB Starter Kit | Runs the programs that guides the ball tracking robot | $147.79 | <a href="https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/"> Raspberry Pi Kit </a> |
 | Robot Chassis | Chassis for robot- has wheels for mobility and points to add sensors and more | $13.99 | <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/"> Chassis </a> |
 | Ultrasonic Sensors | Detect the diostance the robot is from obstacles | $6.79 | <a href="https://www.amazon.com/MTDELE-HC-SR04-Ultrasonic-Mounting-Bracket/dp/B0G6ZDBTWR/"> Ultrasonic Sensors </a> |
+| Gearbox DC motors | runs the robot. (The DC motors that came with the chassis does not have wires) | $9.99 | <a href="https://www.amazon.com/AEDIKO-Motor-Gearbox-200RPM-Ratio/dp/B09N6NXP4H/"> Link </a> |\
+| Elegoo electronics fun kit | Contains breadboard, wires, resistors, LEDs and other items needed for making circuit on the robot | $9.99 | <a href="https://www.amazon.com/EL-CK-002-Electronic-Breadboard-Capacitor-Potentiometer/dp/B01ERP6WL4/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
