@@ -294,9 +294,12 @@ Don't forget to place the link of where to buy each component inside the quotati
 | RasTech Raspberry Pi 4 4GB Starter Kit | Runs the programs that guides the ball tracking robot | $147.79 | <a href="https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/"> Raspberry Pi Kit </a> |
 | Robot Chassis | Chassis for robot- has wheels for mobility and points to add sensors and more | $13.99 | <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/"> Chassis </a> |
 | Ultrasonic Sensors | Detect the diostance the robot is from obstacles | $6.79 | <a href="https://www.amazon.com/MTDELE-HC-SR04-Ultrasonic-Mounting-Bracket/dp/B0G6ZDBTWR/"> Ultrasonic Sensors </a> |
-| Gearbox DC motors | runs the robot. (The DC motors that came with the chassis does not have wires) | $9.99 | <a href="https://www.amazon.com/AEDIKO-Motor-Gearbox-200RPM-Ratio/dp/B09N6NXP4H/"> Link </a> |\
-| Elegoo electronics fun kit | Contains breadboard, wires, resistors, LEDs and other items needed for making circuit on the robot | $9.99 | <a href="https://www.amazon.com/EL-CK-002-Electronic-Breadboard-Capacitor-Potentiometer/dp/B01ERP6WL4/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Gearbox DC motors | runs the robot. (The DC motors that came with the chassis does not have wires) | $9.99 | <a href="https://www.amazon.com/AEDIKO-Motor-Gearbox-200RPM-Ratio/dp/B09N6NXP4H/"> Motors </a> |\
+| Elegoo electronics fun kit | Contains breadboard, wires, resistors, LEDs and other items needed for making circuit on the robot | $9.99 | <a href="https://www.amazon.com/EL-CK-002-Electronic-Breadboard-Capacitor-Potentiometer/dp/B01ERP6WL4/"> Circuit Kit </a> |
+| Red Ball | Ball for Ball Tracking Robot to track (or you can throw it really hard at a sibling) | $6.99 | <a href="https://www.amazon.com/Champion-Sports-Coated-Density-Balls/dp/B000KYQ406/"> Link </a> |
+|  L9110S H bridge motor controller | to connect motors to battery pack and raspberry pi (you dont need 6 of them one is enough) | $8.99 | <a href="https://www.amazon.com/ACEIRMC-Stepper-Controller-2-5-12V-H-Bridge/dp/B0923VMKSZ/"> Link </a> |
+| Double A batteries | For the motors | $9.99 | <a href="https://www.amazon.com/Amazon-Basics-Batteries-Leak-Free-Household/dp/B00NTCH52W/"> Link </a> |
+
 
 
 # Other Resources/Examples
