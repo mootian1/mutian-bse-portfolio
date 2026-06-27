@@ -296,9 +296,11 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Ultrasonic Sensors | Detect the diostance the robot is from obstacles | $6.79 | <a href="https://www.amazon.com/MTDELE-HC-SR04-Ultrasonic-Mounting-Bracket/dp/B0G6ZDBTWR/"> Ultrasonic Sensors </a> |
 | Gearbox DC motors | runs the robot. (The DC motors that came with the chassis does not have wires) | $9.99 | <a href="https://www.amazon.com/AEDIKO-Motor-Gearbox-200RPM-Ratio/dp/B09N6NXP4H/"> Motors </a> |\
 | Elegoo electronics fun kit | Contains breadboard, wires, resistors, LEDs and other items needed for making circuit on the robot | $9.99 | <a href="https://www.amazon.com/EL-CK-002-Electronic-Breadboard-Capacitor-Potentiometer/dp/B01ERP6WL4/"> Circuit Kit </a> |
-| Red Ball | Ball for Ball Tracking Robot to track (or you can throw it really hard at a sibling) | $6.99 | <a href="https://www.amazon.com/Champion-Sports-Coated-Density-Balls/dp/B000KYQ406/"> Link </a> |
-|  L9110S H bridge motor controller | to connect motors to battery pack and raspberry pi (you dont need 6 of them one is enough) | $8.99 | <a href="https://www.amazon.com/ACEIRMC-Stepper-Controller-2-5-12V-H-Bridge/dp/B0923VMKSZ/"> Link </a> |
-| Double A batteries | For the motors | $9.99 | <a href="https://www.amazon.com/Amazon-Basics-Batteries-Leak-Free-Household/dp/B00NTCH52W/"> Link </a> |
+| Red Ball | Ball for Ball Tracking Robot to track (or you can throw it really hard at a sibling) | $6.99 | <a href="https://www.amazon.com/Champion-Sports-Coated-Density-Balls/dp/B000KYQ406/"> Ball </a> |
+|  L9110S H bridge motor controller | to connect motors to battery pack and raspberry pi (you dont need 6 of them one is enough) | $8.99 | <a href="https://www.amazon.com/ACEIRMC-Stepper-Controller-2-5-12V-H-Bridge/dp/B0923VMKSZ/"> Motor Controller </a> |
+| Double A batteries | For the motors | $9.99 | <a href="https://www.amazon.com/Amazon-Basics-Batteries-Leak-Free-Household/dp/B00NTCH52W/"> Batteries </a> |
+| Multimeter | To measure the circuit (not nessecary) | $9.99 | <a href="https://www.amazon.com/Multimeter-Voltmeter-Continuity-Resistance-Electrical/dp/B0CXM242J1/"> Multimeter </a> |
+| 5000 MHA power bank | Power supply for raspberry pi | $14.99 | <a href="https://www.amazon.com/Miady-5000mAh-Portable-Charging-Compatible/dp/B08T8TDS8S/"> Power Bank </a> |
 
 
 
